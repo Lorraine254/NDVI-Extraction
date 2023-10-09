@@ -1,4 +1,4 @@
-# Extracting Naiivasha NDVI (Not Scaled)
+# Extracting Naivasha NDVI (Not Scaled)
 
 ## Naivasha NDVI - not scaled
 
